@@ -1,2 +1,2 @@
 # mherbs
-Project for Medicinal Herbs chemical compound
+Project for Medicinal Herbs chemical compound profiling database (TBD)
